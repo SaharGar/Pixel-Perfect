@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pixel-Perfect/static/css/main.6727a677.css",
-    "main.js": "/Pixel-Perfect/static/js/main.c287acdb.js",
+    "main.js": "/Pixel-Perfect/static/js/main.df07accf.js",
     "static/media/Livvic-Bold.ttf": "/Pixel-Perfect/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
     "static/media/Livvic-SemiBold.ttf": "/Pixel-Perfect/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
     "static/media/kady.jpg": "/Pixel-Perfect/static/media/kady.78fc482c1b331d912ca1.jpg",
@@ -22,10 +22,10 @@
     "static/media/icon-facebook.svg": "/Pixel-Perfect/static/media/icon-facebook.229c75a01827343aef31ae916e2ec18a.svg",
     "static/media/bg-pattern-home-4.svg": "/Pixel-Perfect/static/media/bg-pattern-home-4.aacd4e03b04df33749baa362f4612832.svg",
     "main.6727a677.css.map": "/Pixel-Perfect/static/css/main.6727a677.css.map",
-    "main.c287acdb.js.map": "/Pixel-Perfect/static/js/main.c287acdb.js.map"
+    "main.df07accf.js.map": "/Pixel-Perfect/static/js/main.df07accf.js.map"
   },
   "entrypoints": [
     "static/css/main.6727a677.css",
-    "static/js/main.c287acdb.js"
+    "static/js/main.df07accf.js"
   ]
 }
