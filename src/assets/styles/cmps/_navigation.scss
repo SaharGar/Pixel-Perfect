@@ -1,0 +1,44 @@
+nav {
+  height: 150px;
+  background-color: $clr1;
+  
+  .content {
+    width: 1440px;
+    padding: 0px 165px;
+    padding-top: 80px;
+    margin: auto  ;
+
+    button {
+      background-color: $clr1;
+      width: fit-content;
+      height: fit-content;
+      border-radius: 50px;
+      padding: 10px 35px;
+      color: $clr2;
+      border: 2px solid #ffffff;
+      color: #ffffff;
+
+      &:hover {
+        background-color: #ffffff;
+        color: $clr1;
+      }
+    }
+
+    .left-side {
+      gap: 80px;
+
+      .logo-container {
+        width: 160px;  
+      }
+    }
+  
+  
+    ul {
+      gap: 40px;
+      li {
+        margin-inline-end: 10px;
+      }
+    }
+  }
+
+}

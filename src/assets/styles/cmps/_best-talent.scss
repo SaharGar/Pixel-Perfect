@@ -1,0 +1,67 @@
+
+.best-talent-container {
+     
+    @include for-narrow-layout {
+        width: 1440px;
+        margin: auto;
+        padding: 140px 165px 0px;
+
+
+        .left {
+            position: absolute;
+            left: -7%;
+            top: 25%;
+            width: 200px;
+        }
+
+        .right {
+            position: absolute;
+            bottom: 0%;
+            right: 14%;
+            width: 360px;
+
+        }
+     
+        .content {
+            
+            color: #ffffff;
+            
+
+            .headline {
+                width: 525px;
+                font-size: rem(100px);
+
+                h1 {
+                    margin: unset;
+                    font-family: vicBold, sans-serif;
+                    max-width: 10ch;
+
+                    span {
+                        color: $clr5;
+                    }
+                }
+            }
+
+            .info {
+                width: 385px;
+                height: 100px;
+                padding-left: 25px;
+                font-size: rem(18px);
+                position: relative;
+
+                &::before {
+                    content: "";
+                    position: absolute;
+                    top: -50%;
+                    width: 50px;
+                    height: 4px;
+                    background-color: #79c7c6;
+                }
+
+                p {
+                    line-height: 1.5;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+// Colors
+$clr1: #014d56;
+$clr2: #002529;
+$clr3: #79c8c7;
+$clr4: #2b6269;
+$clr5: #f67e76;
+$clr6: #002f34;
+
+// LAYOUT
+$layoutPadding: 20px;
+
+// Breakpoints
+$break-mobile: 330px;
+$break-narrow: 330px;
+$break-normal: 720px;
+$break-wide: 960px;
+
+$padded-break-mobile: $break-mobile + $layoutPadding * 2;
+$padded-break-narrow: $break-narrow + $layoutPadding * 2;
+$padded-break-normal: $break-normal + $layoutPadding * 2;
+$padded-break-wide: $break-wide + $layoutPadding * 2;

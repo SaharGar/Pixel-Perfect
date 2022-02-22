@@ -1,0 +1,25 @@
+.home {
+    display: grid;
+    grid-template-rows: 550px 680px 745px 200px;  
+    .upper {
+        grid-row: 1/2;
+        background-color: $clr1;
+        position: relative;
+    }
+    .middle {
+        grid-row: 2/3;
+        background-color: $clr6;
+        position: relative;
+    }
+    .lower {
+        grid-row: 3/4;
+        background-color: #004047;
+        position: relative;
+    }
+    .ready {
+        grid-row: 4/5;
+        background-color: #f67d7d;
+        position: relative;
+    }
+
+}
