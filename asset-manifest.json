@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Pixel-Perfect/static/css/main.6727a677.css",
+    "main.js": "/Pixel-Perfect/static/js/main.c287acdb.js",
+    "static/media/Livvic-Bold.ttf": "/Pixel-Perfect/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
+    "static/media/Livvic-SemiBold.ttf": "/Pixel-Perfect/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
+    "static/media/kady.jpg": "/Pixel-Perfect/static/media/kady.78fc482c1b331d912ca1.jpg",
+    "static/media/arthur.jpg": "/Pixel-Perfect/static/media/arthur.098c2e26b1c3fa071061.jpg",
+    "static/media/aiysha.jpg": "/Pixel-Perfect/static/media/aiysha.e119a0c1a5a4d6a6d0bb.jpg",
+    "static/media/icon-person.svg": "/Pixel-Perfect/static/media/icon-person.5552a51d56956670c74c48878483283a.svg",
+    "static/media/icon-cog.svg": "/Pixel-Perfect/static/media/icon-cog.332de386adeb2e06fc6e001ed6cd930a.svg",
+    "static/media/logo.svg": "/Pixel-Perfect/static/media/logo.9e687f65b84bdaad178f8a42a249e298.svg",
+    "static/media/icon-chart.svg": "/Pixel-Perfect/static/media/icon-chart.6ec5af868295e58d64272bfdc69ddeae.svg",
+    "static/media/bg-pattern-home-6.svg": "/Pixel-Perfect/static/media/bg-pattern-home-6.d6ab17f29ebdab5d4bc7f1960db202e8.svg",
+    "static/media/bg-pattern-home-3.svg": "/Pixel-Perfect/static/media/bg-pattern-home-3.4bc172f902aa8a5308451cd91cce9f8a.svg",
+    "static/media/bg-pattern-home-1.svg": "/Pixel-Perfect/static/media/bg-pattern-home-1.657c863c54e91c46f896e7ec0bac33c4.svg",
+    "static/media/icon-pinterest.svg": "/Pixel-Perfect/static/media/icon-pinterest.a2d25ab4c70b78c4028f25323009cc58.svg",
+    "static/media/bg-pattern-home-2.svg": "/Pixel-Perfect/static/media/bg-pattern-home-2.889d5d8c448ed043a71bd7e91e884388.svg",
+    "index.html": "/Pixel-Perfect/index.html",
+    "static/media/icon-twitter.svg": "/Pixel-Perfect/static/media/icon-twitter.1d5c6d5e6ab1717a500af2df0a87959a.svg",
+    "static/media/bg-pattern-home-5.svg": "/Pixel-Perfect/static/media/bg-pattern-home-5.95a2a6211526850cef5564daa5a17630.svg",
+    "static/media/icon-facebook.svg": "/Pixel-Perfect/static/media/icon-facebook.229c75a01827343aef31ae916e2ec18a.svg",
+    "static/media/bg-pattern-home-4.svg": "/Pixel-Perfect/static/media/bg-pattern-home-4.aacd4e03b04df33749baa362f4612832.svg",
+    "main.6727a677.css.map": "/Pixel-Perfect/static/css/main.6727a677.css.map",
+    "main.c287acdb.js.map": "/Pixel-Perfect/static/js/main.c287acdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6727a677.css",
+    "static/js/main.c287acdb.js"
+  ]
+}
